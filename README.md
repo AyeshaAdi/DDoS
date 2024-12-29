@@ -20,7 +20,7 @@ This repository contains an **Advanced DDoS Attack Simulation Script** written i
    cd Advanced-DDos-Script
    ```
 
-2. Install required libraries (if any):
+2. Install required libraries (If any):
    ```bash
    pip install -r requirements.txt
    ```
